@@ -7,6 +7,10 @@ Solving dynamic programming problems in Java
 * Fibonacci Number
 * Binomial Expansion
 * Longest Common Sequence
+* Largest sum of a continuous subarray
+* Ugly numbers
+* Maximum size square sub-matrix with all 1s
+* Longest increasing subsequence
 
 * Edit distance
 * Coin Change
