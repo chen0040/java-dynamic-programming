@@ -11,6 +11,7 @@ Solving dynamic programming problems in Java
 * Ugly numbers
 * Maximum size square sub-matrix with all 1s
 * Longest increasing subsequence
+* Cutting a Rod
 
 * Edit distance
 * Coin Change
