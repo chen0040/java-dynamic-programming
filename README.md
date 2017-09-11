@@ -12,8 +12,9 @@ Solving dynamic programming problems in Java
 * Maximum size square sub-matrix with all 1s
 * Longest increasing subsequence
 * Cutting a Rod
-
+* Minimum number of jumps to reach end
 * Edit distance
 * Coin Change
 * Subset Sum
 * Min Cost Path
+
