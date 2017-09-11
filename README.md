@@ -18,3 +18,5 @@ Solving dynamic programming problems in Java
 * [Subset Sum](http://www.geeksforgeeks.org/dynamic-programming-subset-sum-problem/)
 * [Min Cost Path](http://www.geeksforgeeks.org/dynamic-programming-set-6-min-cost-path/)
 * [Assembly Line Scheduling](http://www.geeksforgeeks.org/dynamic-programming-set-34-assembly-line-scheduling/)
+* [Maximum Sum Increasing Subsequence](http://www.geeksforgeeks.org/dynamic-programming-set-14-maximum-sum-increasing-subsequence/)
+* [Maximum Length Chain of Pairs](http://www.geeksforgeeks.org/dynamic-programming-set-20-maximum-length-chain-of-pairs/)
