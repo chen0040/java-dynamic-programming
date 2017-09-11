@@ -4,6 +4,8 @@ package com.github.chen0040.dp.basic;
 /**
  * Created by xschen on 4/9/2017.
  *
+ * link: http://www.geeksforgeeks.org/largest-sum-contiguous-subarray/
+ *
  * Write an efficient C program to find the sum of contiguous subarray within a one-dimensional array of numbers which has the largest sum.
  */
 public class LargestSumContinuousSubarray {

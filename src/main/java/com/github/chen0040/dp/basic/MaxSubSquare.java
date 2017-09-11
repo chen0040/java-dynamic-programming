@@ -4,6 +4,8 @@ package com.github.chen0040.dp.basic;
 /**
  * Created by xschen on 4/9/2017.
  *
+ * link: http://www.geeksforgeeks.org/maximum-size-sub-matrix-with-all-1s-in-a-binary-matrix/
+ *
  * Given a binary matrix, find out the maximum size square sub-matrix with all 1s.
  */
 public class MaxSubSquare {

@@ -4,17 +4,17 @@ Solving dynamic programming problems in Java
 
 ## Basic Problems
 
-* Fibonacci Number
-* Binomial Expansion
-* Longest Common Sequence
-* Largest sum of a continuous subarray
-* Ugly numbers
-* Maximum size square sub-matrix with all 1s
-* Longest increasing subsequence
-* Cutting a Rod
-* Minimum number of jumps to reach end
-* Edit distance
-* Coin Change
-* Subset Sum
-* Min Cost Path
-
+* [Fibonacci Number](http://www.geeksforgeeks.org/program-for-nth-fibonacci-number/)
+* [Binomial Expansion](http://www.geeksforgeeks.org/dynamic-programming-set-9-binomial-coefficient/)
+* [Longest Common Sequence](http://www.geeksforgeeks.org/dynamic-programming-set-4-longest-common-subsequence/)
+* [Largest sum of a continuous subarray](http://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
+* [Ugly numbers](http://www.geeksforgeeks.org/ugly-numbers/)
+* [Maximum size square sub-matrix with all 1s](http://www.geeksforgeeks.org/maximum-size-sub-matrix-with-all-1s-in-a-binary-matrix/)
+* [Longest increasing subsequence](http://www.geeksforgeeks.org/dynamic-programming-set-3-longest-increasing-subsequence/)
+* [Cutting a Rod](http://www.geeksforgeeks.org/dynamic-programming-set-13-cutting-a-rod/)
+* [Minimum number of jumps to reach end](http://www.geeksforgeeks.org/minimum-number-of-jumps-to-reach-end-of-a-given-array/)
+* [Edit distance](http://www.geeksforgeeks.org/dynamic-programming-set-5-edit-distance/)
+* [Coin Change](http://www.geeksforgeeks.org/dynamic-programming-set-7-coin-change/)
+* [Subset Sum](http://www.geeksforgeeks.org/dynamic-programming-subset-sum-problem/)
+* [Min Cost Path](http://www.geeksforgeeks.org/dynamic-programming-set-6-min-cost-path/)
+* [Assembly Line Scheduling](http://www.geeksforgeeks.org/dynamic-programming-set-34-assembly-line-scheduling/)
