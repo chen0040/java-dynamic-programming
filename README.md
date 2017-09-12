@@ -20,3 +20,4 @@ Solving dynamic programming problems in Java
 * [Assembly Line Scheduling](http://www.geeksforgeeks.org/dynamic-programming-set-34-assembly-line-scheduling/)
 * [Maximum Sum Increasing Subsequence](http://www.geeksforgeeks.org/dynamic-programming-set-14-maximum-sum-increasing-subsequence/)
 * [Maximum Length Chain of Pairs](http://www.geeksforgeeks.org/dynamic-programming-set-20-maximum-length-chain-of-pairs/)
+* [Longest Common Substring](http://www.geeksforgeeks.org/longest-common-substring/)
