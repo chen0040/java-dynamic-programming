@@ -23,3 +23,5 @@ Solving dynamic programming problems in Java
 * [Longest Common Substring](http://www.geeksforgeeks.org/longest-common-substring/)
 * [Count all possible paths from top left to bottom right of a mXn matrix](http://www.geeksforgeeks.org/count-possible-paths-top-left-bottom-right-nxm-matrix/)
 * [Program for nth Catalan Number](http://www.geeksforgeeks.org/program-nth-catalan-number/)
+* [Count number of ways to reach a given score in a game](http://www.geeksforgeeks.org/count-number-ways-reach-given-score-game/)
+* [Tiling Problem](http://www.geeksforgeeks.org/tiling-problem/)
