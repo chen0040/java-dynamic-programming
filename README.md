@@ -28,3 +28,4 @@ Solving dynamic programming problems in Java
 * [Count even length binary sequences with same sum of first and second half bits](http://www.geeksforgeeks.org/count-even-length-binary-sequences-with-same-sum-of-first-and-second-half-bits/)
 * [Find number of solutions of a linear equation of n variables](http://www.geeksforgeeks.org/find-number-of-solutions-of-a-linear-equation-of-n-variables/)
 * [Number of ways to Partition a Set](http://www.geeksforgeeks.org/bell-numbers-number-of-ways-to-partition-a-set/)
+* [Compute nCr % p](http://www.geeksforgeeks.org/compute-ncr-p-set-1-introduction-and-dynamic-programming-solution/)
