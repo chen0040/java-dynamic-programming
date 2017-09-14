@@ -26,3 +26,4 @@ Solving dynamic programming problems in Java
 * [Count number of ways to reach a given score in a game](http://www.geeksforgeeks.org/count-number-ways-reach-given-score-game/)
 * [Tiling Problem](http://www.geeksforgeeks.org/tiling-problem/)
 * [Count even length binary sequences with same sum of first and second half bits](http://www.geeksforgeeks.org/count-even-length-binary-sequences-with-same-sum-of-first-and-second-half-bits/)
+* [Find number of solutions of a linear equation of n variables](http://www.geeksforgeeks.org/find-number-of-solutions-of-a-linear-equation-of-n-variables/)
