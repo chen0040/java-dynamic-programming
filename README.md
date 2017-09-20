@@ -30,3 +30,4 @@ Solving dynamic programming problems in Java
 * [Number of ways to Partition a Set](http://www.geeksforgeeks.org/bell-numbers-number-of-ways-to-partition-a-set/)
 * [Compute nCr % p](http://www.geeksforgeeks.org/compute-ncr-p-set-1-introduction-and-dynamic-programming-solution/)
 * [Count number of ways to fill a “n x 4” grid using “1 x 4” tiles](http://www.geeksforgeeks.org/count-number-of-ways-to-fill-a-n-x-4-grid-using-1-x-4-tiles/)
+* [A Space Optimized Solution of LCS](http://www.geeksforgeeks.org/space-optimized-solution-lcs/)
